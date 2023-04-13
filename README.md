@@ -9,4 +9,4 @@
 
 
 # Благодарности
-Cпасибо разработчикам yandex-music-api - код во многом основан на базе их API.
+Cпасибо разработчикам [yandex-music-api](https://github.com/MarshalX/yandex-music-api) - код во многом основан на базе их API.
